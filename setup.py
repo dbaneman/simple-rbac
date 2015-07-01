@@ -18,13 +18,13 @@ classifiers = [
             "Topic :: Software Development :: Libraries :: Python Modules"]
 
 metadata = {'name': "simple-rbac",
-            'version': "0.1.1",
-            'description': "A simple role based access control utility",
+            'version': "0.1.1.dgb1",
+            'description': "A simple role based access control utility, forked for heavier use of assertions.",
             'long_description': long_description,
             'keywords': "rbac permission acl access-control",
-            'author': "Jiangge Zhang",
+            'author': "Dan Baneman",
             'author_email': "tonyseek@gmail.com",
-            'url': "http://github.tonyseek.com/simple-rbac/",
+            'url': "https://github.com/dbaneman/simple-rbac",
             'license': "MIT License",
             'packages': ["rbac"],
             'zip_safe': True,
