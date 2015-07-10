@@ -18,7 +18,7 @@ classifiers = [
             "Topic :: Software Development :: Libraries :: Python Modules"]
 
 metadata = {'name': "simple-rbac-dgb",
-            'version': "0.1.0",
+            'version': "0.1.1",
             'description': "A simple role based access control utility, forked for heavier use of assertions.",
             'long_description': long_description,
             'keywords': "rbac permission acl access-control",
